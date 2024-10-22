@@ -1,0 +1,8 @@
+QUALIFIED_ATTR=1
+ATTR=2
+MYID=3
+DOT=4
+LP=5
+WS=6
+'.'=4
+'('=5

@@ -1,0 +1,10 @@
+C:/msys64/home/Kenne/temp2/Generated-CSharp/obj/Debug/net8.0/X.interp
+C:/msys64/home/Kenne/temp2/Generated-CSharp/obj/Debug/net8.0/X.tokens
+C:/msys64/home/Kenne/temp2/Generated-CSharp/obj/Debug/net8.0/XBaseListener.cs
+C:/msys64/home/Kenne/temp2/Generated-CSharp/obj/Debug/net8.0/XBaseVisitor.cs
+C:/msys64/home/Kenne/temp2/Generated-CSharp/obj/Debug/net8.0/XLexer.cs
+C:/msys64/home/Kenne/temp2/Generated-CSharp/obj/Debug/net8.0/XLexer.interp
+C:/msys64/home/Kenne/temp2/Generated-CSharp/obj/Debug/net8.0/XLexer.tokens
+C:/msys64/home/Kenne/temp2/Generated-CSharp/obj/Debug/net8.0/XListener.cs
+C:/msys64/home/Kenne/temp2/Generated-CSharp/obj/Debug/net8.0/XParser.cs
+C:/msys64/home/Kenne/temp2/Generated-CSharp/obj/Debug/net8.0/XVisitor.cs

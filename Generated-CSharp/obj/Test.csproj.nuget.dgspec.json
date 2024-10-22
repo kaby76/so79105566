@@ -1,0 +1,117 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\msys64\\home\\Kenne\\temp2\\Generated-CSharp\\Test.csproj": {}
+  },
+  "projects": {
+    "C:\\msys64\\home\\Kenne\\temp2\\Generated-CSharp\\Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\msys64\\home\\Kenne\\temp2\\Generated-CSharp\\Test.csproj",
+        "projectName": "Test",
+        "projectPath": "C:\\msys64\\home\\Kenne\\temp2\\Generated-CSharp\\Test.csproj",
+        "packagesPath": "C:\\Users\\Kenne\\.nuget\\packages\\",
+        "outputPath": "C:\\msys64\\home\\Kenne\\temp2\\Generated-CSharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kenne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Antlr4BuildTasks2\\Antlr4BuildTasks\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Domemtech.StringTemplate4\\Antlr4.StringTemplate\\bin\\Debug": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\tranalyze\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trcaret\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trclonereplace\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trcombine\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trconvert\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trcover\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trdot\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trfoldlit\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trgen\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trgenvsc\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trglob\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\triconv\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\tritext\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trjson\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trparse\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trperf\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trquery\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trrename\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trsort\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trsplit\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trsponge\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trtext\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trtokens\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trtree\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trunfold\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trungroup\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trwdog\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trxgrep\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trxml2\\bin\\Release\\": {},
+          "c:\\Users\\Kenne\\Documents\\GitHub\\Trash\\src\\trxml\\bin\\Release\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Antlr4.Runtime.Standard": {
+              "target": "Package",
+              "version": "[4.13.1, )"
+            },
+            "Antlr4BuildTasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[12.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
